@@ -38,6 +38,11 @@ Engineering modern online experiences
 <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
 </p>
 
+<p> 
+DevOps - SAFe Agile - MySQL - SQL - Stored Procedures - Database Design - ERD - RESTful API
+- APIGEE - OpenAPI & Swagger - Javascript, NodeJS - React & VueJS - PHP, Symfony - Python, Openpyxl - Altova - Progress OpenEdge - AWS, EC2, RDS, S3, API Gateway, Textract - Docker - Adobe Illustrator - Adobe XD - Microsoft Projects - SDLC - CI/CD - Jira - Bamboo - Bitbucket Pipelines - Git - LucidCharts - Linux - Apache - Nginx - IIS - Web Design
+</p>
+
 
 ### Badges
 
