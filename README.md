@@ -10,7 +10,8 @@ Engineering modern online experiences
 * ⌛  I've been developing for 8 years developing PHP/Javascript/MySQL-based apps and websites
 * 🧠  Currently working on AWS Cloud Practitioner Certification & updating JS utilities to NPM packages
 
-Portfolios
+### Portfolios
+
 * (NPM) - https://www.npmjs.com/~jvuzzell
 * (Github) - https://www.github.com/jvuzzell
 * (Behance) - https://www.behance.com/JoshuaUzzell
@@ -37,10 +38,6 @@ Portfolios
 <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
 </p>
 
-
-### Socials
-
-<p align="left"> <a href="https://www.behance.com/JoshuaUzzell" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" /></a> <a href="https://www.github.com/jvuzzell" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/joshuauzzell" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
