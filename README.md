@@ -7,7 +7,7 @@ Full Stack Engineer
 Engineering modern online experiences
 
 * 🌍  I'm based in Washington, DC
-* ⌛  I've been developing for 8 years developing PHP/Javascript/MySQL-based apps and websites
+* ⌛  I've been developing for 8 years developing and managing PHP/Javascript/MySQL-based software
 * 🧠  Currently working on AWS Cloud Practitioner Certification & updating JS utilities to NPM packages
 
 ### Portfolios
