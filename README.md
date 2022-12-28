@@ -6,15 +6,15 @@ Full Stack Engineer
 
 Engineering modern online experiences
 
-*🌍  I'm based in Washington, DC
-*⌛  I've been developing for 8 years developing PHP/Javascript/MySQL-based apps and websites
-*🧠  Currently working on AWS Cloud Practitioner Certification & updating JS utilities to NPM packages
+* 🌍  I'm based in Washington, DC
+* ⌛  I've been developing for 8 years developing PHP/Javascript/MySQL-based apps and websites
+* 🧠  Currently working on AWS Cloud Practitioner Certification & updating JS utilities to NPM packages
 
 Portfolios
-*(NPM) - https://www.npmjs.com/~jvuzzell
-*(Github) - https://www.github.com/jvuzzell
-*(Behance) - https://www.behance.com/JoshuaUzzell
-*(LinkedIn) - https://www.linkedin.com/in/joshuauzzell
+* (NPM) - https://www.npmjs.com/~jvuzzell
+* (Github) - https://www.github.com/jvuzzell
+* (Behance) - https://www.behance.com/JoshuaUzzell
+* (LinkedIn) - https://www.linkedin.com/in/joshuauzzell
 
 ### Skills
 
