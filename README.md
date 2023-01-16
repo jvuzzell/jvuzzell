@@ -43,5 +43,5 @@ DevOps - SAFe Agile - MySQL - SQL - Stored Procedures - Database Design - ERD - 
 - APIGEE - OpenAPI & Swagger - Javascript, NodeJS - React & VueJS - PHP, Symfony - Python, Openpyxl - Altova - Progress OpenEdge - AWS, EC2, RDS, S3, API Gateway, Textract - Docker - Adobe Illustrator - Adobe XD - Microsoft Projects - SDLC - CI/CD - Jira - Bamboo - Bitbucket Pipelines - Git - LucidCharts - Linux - Apache - Nginx - IIS - Web Design
 </p>
 
-
+<br>
 <a href="https://github.com/jvuzzell" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvuzzell&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
