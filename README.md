@@ -8,7 +8,6 @@ Engineering modern online experiences
 
 * 🌍  I'm based in Washington, DC
 * ⌛  I've been developing and managing web-based applications for 15 years 
-* 🧠  Currently working on AWS Cloud Practitioner Certification & updating JS utilities to NPM packages
 
 ### Portfolios
 
