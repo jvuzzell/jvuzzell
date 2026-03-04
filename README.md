@@ -3,7 +3,7 @@
 Engineering Modern Online Experiences
 =====================================================================================================================================
 
-Fractional CTO and Software Management Provider
+Joshua Uzzell, Fractional CTO and Software Management Provider
 -------------------
 <br />
 
