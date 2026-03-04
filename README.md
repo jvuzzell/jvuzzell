@@ -31,7 +31,6 @@ Joshua Uzzell, Fractional CTO and Software Management Provider
         <strong>Documenting Business Value</strong>
       </a>
       <br />
-      Reverse Engineering the Value in Legacy Web Platforms — 80% business value found in 40% of codebase, 14 hidden integrations discovered.
     </td>
     <td width="50%" align="center">
       <a href="https://sunuselo.com/case-studies/enterprise-project-planning/"><img src="https://sunuselo.com/assets/images/2025-12-05_ai-accelerated-project-planning_horizontal.png" width="100%" alt="AI-Powered Project Management" />
@@ -39,7 +38,6 @@ Joshua Uzzell, Fractional CTO and Software Management Provider
         <strong>AI-Powered Project Management</strong>
       </a>
       <br />
-      AI-Accelerated Project Planning — 50-60% reduction in planning time, 832 SDLC tasks generated from 75 processes.
     </td>
   </tr>
   <tr>
@@ -50,7 +48,6 @@ Joshua Uzzell, Fractional CTO and Software Management Provider
         <strong>Product and Project Management</strong>
       </a>
       <br />
-      Building an AI-Enhanced Agile Delivery Framework — 40% reduction in development time, 1,474 story points modeled.
     </td>
     <td width="50%" align="center">
       <a href="https://sunuselo.com/case-studies/identifying-market-opportunities/">
@@ -59,7 +56,6 @@ Joshua Uzzell, Fractional CTO and Software Management Provider
         <strong>Identifying Market Opportunities</strong>
       </a>
       <br />
-      Pivoting from Asset Management to Market Intelligence — 87% reduction in build time, 99% faster customer onboarding.
     </td>
   </tr>
 </table>
