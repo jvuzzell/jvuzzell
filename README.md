@@ -7,7 +7,7 @@ Joshua Uzzell, Fractional CTO and Software Management Provider
 -------------------
 <br />
 
-### Case Studies
+### 🚀 Case Studies
 <table>
   <tr>
     <td width="50%" align="center">
