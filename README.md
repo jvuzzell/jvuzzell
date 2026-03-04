@@ -1,13 +1,13 @@
 <a href="https://sunuselo.com"><img width="150" alt="image" src="https://sunuselo.com/assets/images/logo-sm.svg" /></a>
 
-Engineering Modern Online Experiences
+⚙️ Engineering Modern Online Experiences
 =====================================================================================================================================
 
 Joshua Uzzell, Fractional CTO and Software Management Provider
 -------------------
 <br />
 
-### Tutorials
+### 📕 Tutorials
 <table>
   <tr>
     <td width="40%" align="center" style="background-color: #ffffff;">
