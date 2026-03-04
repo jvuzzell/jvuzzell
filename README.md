@@ -1,16 +1,17 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Joshua Uzzell
+Joshua Uzzell, Engineering Modern Online Experiences
 =====================================================================================================================================
 
-Director of IT and Engineering
+Fractional CTO and Software Management Provider
 -------------------
 
 Engineering modern online experiences
 
-* 🌍  I'm based in Washington, DC
-* ⌛  I've been developing and managing web-based applications for 15 years 
+* 🌍  Based in Louisville, Kentucky
+* ⌛  15+ years developing and managing web-based software solutions
 
 ### Portfolios
 
+* (Portfolio) - https://www.sunuselo.com
 * (NPM) - https://www.npmjs.com/~jvuzzell
 * (Github) - https://www.github.com/jvuzzell
 * (Behance) - https://www.behance.com/JoshuaUzzell
