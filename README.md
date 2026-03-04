@@ -46,13 +46,6 @@ Fractional CTO and Software Management Provider with over 15 years of experience
   </tr>
 </table>
 
-### Portfolios
-
-* (Portfolio) - https://www.sunuselo.com
-* (NPM) - https://www.npmjs.com/~jvuzzell
-* (Github) - https://www.github.com/jvuzzell
-* (Behance) - https://www.behance.com/JoshuaUzzell
-* (LinkedIn) - https://www.linkedin.com/in/joshuauzzell
 
 ### Skills
 
