@@ -5,7 +5,7 @@ Engineering Modern Online Experiences
 
 Fractional CTO and Software Management Provider
 -------------------
-<br /><br />
+<br />
 
 ### Case Studies
 <table>
