@@ -11,7 +11,7 @@ Joshua Uzzell, Fractional CTO and Software Management Provider
 <table>
   <tr>
     <td width="40%" align="center" style="background-color: #ffffff;">
-      <img src="https://sunuselo.com/assets/images/logo_full_git-me-online-quick.svg" width="100%" alt="Git Me Online Quick Tutorial Site" />
+      <img src="https://uzzell.codes/demo/lms/src/assets/images/social/opengraph-card_1200-x-630.jpg" width="100%" alt="Git Me Online Quick Tutorial Site" />
     </td>
     <td width="60%" valign="top">
       <h2>Mentor &amp; Coach</h2>
