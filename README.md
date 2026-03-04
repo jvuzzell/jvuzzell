@@ -4,10 +4,6 @@ Joshua Uzzell, Engineering Modern Online Experiences
 Fractional CTO and Software Management Provider
 -------------------
 
-[![Banner](https://YOUR_BANNER_IMAGE_URL)](https://sunuselo.com)
-
----
-
 ## Case Studies
 
 <table>
