@@ -1,7 +1,7 @@
 Joshua Uzzell, Engineering Modern Online Experiences
 =====================================================================================================================================
 
-Fractional CTO and Software Management Provider
+Fractional CTO and Software Management Provider with over 15 years of experience
 -------------------
 
 ## Case Studies
