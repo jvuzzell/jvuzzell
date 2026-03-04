@@ -43,7 +43,7 @@ Fractional CTO and Software Management Provider
     </td>
     <td width="50%" align="center">
       <a href="https://sunuselo.com/case-studies/identifying-market-opportunities/">
-        <img src="https://sunuselo.com/assets/images/2025-12-05_pivoting-from-asset-management-to-market-intelligence_vertical.png" width="100%" alt="Identifying Market Opportunities" />
+        <img src="https://sunuselo.com/assets/images/2025-12-05_pivoting-from-asset-management-to-market-intelligence_horizontal.png" width="100%" alt="Identifying Market Opportunities" />
         <br /><br />
         <strong>Identifying Market Opportunities</strong>
       </a>
