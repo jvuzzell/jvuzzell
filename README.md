@@ -7,6 +7,20 @@ Joshua Uzzell, Fractional CTO and Software Management Provider
 -------------------
 <br />
 
+### Tutorials
+<table>
+  <tr>
+    <td width="40%" align="center">
+      <img src="https://sunuselo.com/assets/images/logo_full_git-me-online-quick.svg" width="100%" alt="Git Me Online Quick Tutorial Site" />
+    </td>
+    <td width="60%" valign="top">
+      <h2>Mentor &amp; Coach</h2>
+      <p>We are in an unprecedented time of technology and leadership development.</p>
+      <p><a href="https://gitmeonlinequick.com/?source=sunuselo_about">Visit Tutorial Site →</a></p>
+    </td>
+  </tr>
+</table>
+
 ### 🚀 Case Studies
 <table>
   <tr>
